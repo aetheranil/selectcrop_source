@@ -1,0 +1,39 @@
+----------changelog--------------
+current version soil_climatev22Apr19.R
+- fixed bug
+- made code run faster
+
+version soil_climatev15Apr19.R
+- changed the logic of soil calcuations 
+- added the capability to get the soil data from CFF server
+
+version soil_climatev14Feb19.R
+-fixed the trapezoidal bug in the texture suitability subsystem
+-changename ecology3 -->ecology
+
+version soil_climatev24Octp18.R 
+- implemented the new method after clim-soil test results
+- simplifed code to run only one loop
+
+version soil_climatev28Sep18.R
+- added climate condition <30 % line 338
+
+version soil_climatev27Sep18.R
+- fixed trapezoidal for pH, sand, clay
+- moderate condition sand -->52
+- added more weight to soil pH
+- fixed paths problem
+
+verison: soil_climatev118Sep18.R
+-fixed the season = 0 issue for both temperature and rainfall
+-removed the quality controls to speed up the code
+-added integral method to soil data preparation
+-fixed the seasonal bug for integral part 
+-changed the code based on new suitability critieria
+
+- Future changes
+-unify the code to change the disparity between 1 and 100
+-remove unnecessary data frames
+-clean the code
+-unify the loops a.k.a remove i, j, k
+

@@ -1,0 +1,42 @@
+{
+	"token": {
+		"Home":"Laman Utama",
+		"About":"Tentang Kami",
+		"Contact":"Hubungi Kami",
+		"Language":"Bahasa", "#lang-en":"#lang-my",
+
+		"Crop Selection Tool":"Peranti Pemilihan Tanaman",
+		"This tool is designed to help farmers and decision makers select crops for their areas based on available information.":"Peranti ini direka untuk membantu petani memilih tanaman yang sesuai bagi kawasan mereka berdasarkan maklumat sedia ada.",
+		"Select Your Location":"Pilih Lokasi Anda",
+
+		"Drag the pen or search by name:":"Heret pin atau cari tempat:",
+		"Location:":"Lokasi:",
+		"Clear":"Kosongkan lokasi",
+		"Search This Location":"Cari di lokasi ini",
+
+		"Country":"Negara",
+		"State":"Negeri",
+		"District":"Daerah",
+		"Top 10 Suitable Crops based on Temperature, Rainfall and Soil in Your Area":"10 tanaman sesuai berdasarkan Suhu, Hujan dan Tanah di kawasan anda",
+		"Sorry, no data is available for this location":"Maaf, tiada data untuk lokasi ini",
+		"Rank the above crops":"Rank the above crops",
+		"Or Start from Scratch":"Or Start from Scratch",
+
+		"What is your preference":"Pilih Keutamaan Anda",
+		"Highest Estimated Yield":"Anggaran Hasil Tertinggi",
+		"Highest Estimated Income":"Anggaran Pendapatan Tertinggi",
+		"Sustainable Crops":"Tanaman Lestari",
+
+		"Choose the number of top Climate & Soil suitable crops?":"Pilih bilangan tanaman sesuai berdasarkan Iklim dan Tanah",
+		"Income & Yield":"Pendapatan & Hasil",
+		"Highest Income":"Pendapatan Tertinggi",
+		"Highest Yield":"Hasil Tertinggi",
+		"Nutrient content":"Kandungan Nutrisi",
+		"Vitamin A Content":"Kandungan Vitamin A",
+		"CHO Content":"Kandungan CHO",
+		"Protein Content":"Kandungan Protein",
+		"SUBMIT":"Teruskan",
+
+		"Contact Us":"Hubungi Kami"
+	}
+}
